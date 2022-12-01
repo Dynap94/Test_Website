@@ -2,4 +2,4 @@
 
 Here is some info about me.
 
-[Back to Home](Index.md)
+[Back to Home](index.md)
